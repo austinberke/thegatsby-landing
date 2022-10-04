@@ -2,3 +2,24 @@
   font-family: Jan;
   src: url("./assets/F37Jan-Bold.otf");
 }
+
+#line {
+  height: 3px;
+  background: white;
+  margin-top: 50px;
+}
+
+#logo {
+  font-family: Jan;
+  color: white;
+  font-size: 64px;
+}
+
+#social {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  text-align: right;
+  color: white;
+  margin: 0 14px 0 0;
+  font-size: 18px;
+}
